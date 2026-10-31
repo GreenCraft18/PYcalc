@@ -5,7 +5,8 @@ I'm not very productive, so I might not update it very often, but if you ever ne
 # How to Use and Download
 1. Go to the releases and just download the `PYcalc.py` script.
 2. Run it.
-You're done!  
+You're done!
+  
 Here are the supported operations:  
 +, -, *, /, ^ or **  
 sqrt(x) or √, sin(x), cos(x), tan(x)  
