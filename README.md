@@ -13,6 +13,7 @@ sqrt(x) or √, sin(x), cos(x), tan(x)
 π or pi  
 For math functions like `sqrt`, `sin`, and etc, they require parenthesis around the argument.  
 All the math functions except for `sqrt` use radians and not degrees. (for now)
-To use it, all you gotta do is type your expression.
+To use it, all you gotta do is type your expression.  
+
 ---
 You can modify the code of the script however you like.
